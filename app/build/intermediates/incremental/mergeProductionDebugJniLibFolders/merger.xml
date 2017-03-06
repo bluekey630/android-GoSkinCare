@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AndroidWork\GoSkinCare\app\src\main\jniLibs"/></dataSet><dataSet config="production"><source path="D:\AndroidWork\GoSkinCare\app\src\production\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\AndroidWork\GoSkinCare\app\src\debug\jniLibs"/></dataSet><dataSet config="productionDebug"><source path="D:\AndroidWork\GoSkinCare\app\src\productionDebug\jniLibs"/></dataSet></merger>

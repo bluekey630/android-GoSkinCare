@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="45817552904559"
+    token="-8155756564107786521"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <build
+        timestamp="11742291208093"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\AndroidWork\GoSkinCare\app\build\outputs\apk\app-production-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="45817552904559"
+        verifier="COLD_SWAP_REQUESTED" />
+    <build
+        timestamp="96892026499182"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="D:\AndroidWork\GoSkinCare\app\build\outputs\apk\app-production-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\switch_bg.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\switch_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_profile.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_profile.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_5.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_5.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_logo.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\spinner_11.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\spinner_11.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_20.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_20.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_spinner.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_spinner.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_terms_sel.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_terms_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_0.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_0.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ios_thumb.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ios_thumb.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_12.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_12.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\bg_progress_dialog.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\bg_progress_dialog.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\spinner_4.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\spinner_4.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_18.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_18.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_check.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_check.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_history.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_history.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_1.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_1.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_4.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_4.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\pic_frame.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\pic_frame.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\edittext_bg.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\edittext_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_help.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_help.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_magic_order_sel.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_magic_order_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\spinner_0.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\spinner_0.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\spinner_3.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\spinner_3.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\spinner_9.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\spinner_9.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_19.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_19.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_6.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_6.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\spinner_6.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\spinner_6.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_16.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_16.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\switch_thumb_off.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_off.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_option_selected.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_option_selected.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_minus.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_minus.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_13.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_13.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_9.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_9.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\spinner_10.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\spinner_10.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_terms.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_terms.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_21.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_21.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_10.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_10.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_goto_logo.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_goto_logo.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\spinner_1.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\spinner_1.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_8.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_8.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_magic_order.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_magic_order.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_back.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_3.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_3.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_menu.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_next.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_next.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_profile_sel.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_profile_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_7.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_7.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_15.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_15.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\spinner_7.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\spinner_7.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_23.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_23.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_option.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_option.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_history_sel.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_history_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_plus.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_plus.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_11.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_11.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\actionbar_bg.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_bg.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\switch_thumb_on.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\switch_thumb_on.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_help_sel.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_help_sel.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_17.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_17.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\spinner_5.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\spinner_5.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ios_thumb_disable.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ios_thumb_disable.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_14.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_14.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_22.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_22.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\spinner_8.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\spinner_8.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_fast_order.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_fast_order.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_loading_cream_2.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_loading_cream_2.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\spinner_2.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\spinner_2.png"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\drawable-xhdpi\\ic_fast_order_sel.png",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\drawable-xhdpi\\ic_fast_order_sel.png"
+    }
+]

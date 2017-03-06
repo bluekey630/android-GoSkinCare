@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\xml\\global_tracker.xml",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\build\\generated\\res\\google-services\\production\\debug\\xml\\global_tracker.xml"
+    },
+    {
+        "merged": "D:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\res\\merged\\production\\debug\\xml\\app_tracker.xml",
+        "source": "D:\\AndroidWork\\GoSkinCare\\app\\src\\main\\res\\xml\\app_tracker.xml"
+    }
+]

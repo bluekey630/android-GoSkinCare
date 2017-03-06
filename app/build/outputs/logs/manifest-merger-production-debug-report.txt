@@ -1,0 +1,420 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:2:1-98:12
+	package
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:7:5-66
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:21:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:8:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:10:5-78
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:12:1-64
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:12:18-61
+permission#com.goskincare.permission.C2D_MESSAGE
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:14:5-16:47
+	android:protectionLevel
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:15:9-61
+uses-permission#com.goskincare.permission.C2D_MESSAGE
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:18:5-77
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:18:22-74
+supports-screens
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:20:5-26:40
+	android:largeScreens
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:22:9-36
+	android:smallScreens
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:25:9-36
+	android:normalScreens
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:23:9-37
+	android:xlargeScreens
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:26:9-37
+	android:resizeable
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:24:9-34
+	android:anyDensity
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:21:9-34
+application
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:28:5-96:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:23:5-20
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:12:5-26:19
+MERGED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:21:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\10.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:32:9-41
+	android:allowBackup
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:31:9-45
+	android:theme
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:33:9-40
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:29:9-58
+activity#com.goskincare.activity.SplashActivity
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:36:9-46:20
+	android:screenOrientation
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:38:13-45
+	android:theme
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:40:13-77
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:37:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:44:27-74
+activity#com.goskincare.activity.LoginActivity
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:48:9-60
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:48:19-57
+activity#com.goskincare.activity.ResetPasswordActivity
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:50:9-68
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:50:19-65
+activity#com.goskincare.activity.SignupActivity
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:52:9-55:67
+	android:screenOrientation
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:54:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:55:13-64
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:53:13-52
+activity#com.goskincare.activity.CountryActivity
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:57:9-62
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:57:19-59
+activity#com.goskincare.activity.MainActivity
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:59:9-61:67
+	android:screenOrientation
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:60:13-49
+	android:windowSoftInputMode
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:61:13-64
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:59:19-56
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:64:9-73:20
+	android:exported
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:66:13-36
+	android:permission
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:67:13-73
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:65:13-66
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.goskincare
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:68:13-72:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:69:17-81
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:69:25-78
+category#com.goskincare
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:71:17-59
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:71:27-56
+service#com.goskincare.GCMPushReceiverService
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:76:9-82:19
+	android:exported
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:78:13-37
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:77:13-51
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:79:13-81:29
+service#com.goskincare.GCMRegistrationIntentService
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:85:9-91:19
+	android:exported
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:87:13-37
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:86:13-57
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:88:13-90:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:89:17-80
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:89:25-77
+meta-data#com.google.android.gms.version
+ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:93:9-95:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:95:13-66
+	android:name
+		ADDED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml:94:13-58
+uses-sdk
+INJECTED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.kyleduo.switchbutton:library:1.4.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.kyleduo.switchbutton\library\1.4.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:21:5-43
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:5:5-7:41
+MERGED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\10.0.1\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidWork\GoSkinCare\app\src\main\AndroidManifest.xml
+activity#com.paypal.android.sdk.payments.PaymentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:13:9-84
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:13:19-81
+activity#com.paypal.android.sdk.payments.PaymentMethodActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:14:9-90
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:14:19-87
+activity#com.paypal.android.sdk.payments.PaymentConfirmActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:15:9-91
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:15:19-88
+activity#com.paypal.android.sdk.payments.LoginActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:16:9-82
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:16:19-79
+activity#com.paypal.android.sdk.payments.PayPalFuturePaymentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:17:9-96
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:17:19-93
+activity#com.paypal.android.sdk.payments.FuturePaymentConsentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:18:9-97
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:18:19-94
+activity#com.paypal.android.sdk.payments.FuturePaymentInfoActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:19:9-94
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:19:19-91
+activity#com.paypal.android.sdk.payments.PayPalProfileSharingActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:20:9-97
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:20:19-94
+activity#com.paypal.android.sdk.payments.ProfileSharingConsentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:21:9-98
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:21:19-95
+service#com.paypal.android.sdk.payments.PayPalService
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.14.2] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.2\AndroidManifest.xml:24:13-73
+uses-permission#android.permission.CAMERA
+ADDED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:11:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:12:22-63
+uses-feature#android.hardware.camera
+ADDED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:15:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:18:9-57
+activity#io.card.payment.CardIOActivity
+ADDED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:22:9-24:66
+	android:configChanges
+		ADDED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:24:13-63
+	android:name
+		ADDED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:23:13-58
+activity#io.card.payment.DataEntryActivity
+ADDED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:25:9-70
+	android:name
+		ADDED from [io.card:android-sdk:5.3.4] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\io.card\android-sdk\5.3.4\AndroidManifest.xml:25:19-67
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:20:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] D:\AndroidWork\GoSkinCare\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:79-143

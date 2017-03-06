@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\AndroidWork\GoSkinCare\app\src\main\shaders"/></dataSet><dataSet config="production"><source path="D:\AndroidWork\GoSkinCare\app\src\production\shaders"/></dataSet><dataSet config="debug"><source path="D:\AndroidWork\GoSkinCare\app\src\debug\shaders"/></dataSet><dataSet config="productionDebug"><source path="D:\AndroidWork\GoSkinCare\app\src\productionDebug\shaders"/></dataSet></merger>

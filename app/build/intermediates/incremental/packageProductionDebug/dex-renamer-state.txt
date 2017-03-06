@@ -1,0 +1,7 @@
+#Sun Jan 08 02:16:55 PST 2017
+base.0=D\:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\transforms\\dex\\production\\debug\\folders\\1000\\10\\instant-run-bootstrap_178b85d6a8d15336cbef034504b83631f486503c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\transforms\\dex\\production\\debug\\folders\\1000\\10\\instant-run_6c9cf7f19043fa8238f3cbe9fae12ed5774e1985\\classes.dex
+base.1=D\:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\transforms\\dex\\production\\debug\\folders\\1000\\10\\instant-run_6c9cf7f19043fa8238f3cbe9fae12ed5774e1985
+file.0=D\:\\AndroidWork\\GoSkinCare\\app\\build\\intermediates\\transforms\\dex\\production\\debug\\folders\\1000\\10\\instant-run-bootstrap_178b85d6a8d15336cbef034504b83631f486503c\\classes.dex
